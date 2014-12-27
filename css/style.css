@@ -20,9 +20,10 @@ a{text-decoration:none;}
 Style
 */
 body{
-	background:#f9f9f9;
+	background-color: black;
 }
 .wrap{
+        background-color: black;
 	width:1000px;
 	padding:0 12px;
 	margin:0 auto;
@@ -69,7 +70,7 @@ header{
 	color:#00a99d;
 }
 .content{
-	background:#fff;
+	background: #000;
 	color:#464646;
 	float:left;
 	border-right:1px solid #eee;
@@ -94,6 +95,7 @@ header{
 	color:#2d2d2d;
 }
 .part{
+        background-color: black;
 	padding:20px 0 0 20px;
 }
 .grid{
@@ -203,6 +205,7 @@ header{
 		overflow:hidden;
 	}
 	.widget ul{
+                background-color:black;
 		list-style:none;
 		margin:0;
 		padding:0;
@@ -307,9 +310,10 @@ ads
 footer
 */
 footer{
+    background-color: black;
 	font-size:12px;
 	border-top:1px solid #ddd;
-	background:#f9f9f9;
+	
 	color:#7d7d7d;
 	padding:30px 0 0 30px;
 	position:relative;
